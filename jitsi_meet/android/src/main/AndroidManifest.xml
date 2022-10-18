@@ -9,6 +9,8 @@
             android:supportsPictureInPicture="true"
             android:theme="@android:style/Theme.NoTitleBar.Fullscreen"
             android:windowSoftInputMode="adjustResize">
+            android:theme="@style/Theme.AppCompat.Light"
+            android:exported="false"
         </activity>
     </application>
 </manifest>
